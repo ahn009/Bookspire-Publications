@@ -1,0 +1,275 @@
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+    .main-menu {
+        background: linear-gradient(180deg, rgb(25 136 139) 0, rgb(46 81 57) 91%) !important;
+    }
+
+    .home-menu header ul li a {
+        color: #fff !important;
+        font-weight: 600 !important;
+    }
+
+    .menu-bottom span {
+        height: 2px !important;
+        background: #2c2e2f !important;
+    }
+
+    .owl-stage {
+        display: none !important;
+    }
+
+    .strugglesec {
+        padding: 25px !important;
+    }
+
+    .main-heading {
+        font-size: 30px !important;
+        width: 100% !important;
+        font-weight: 700 !important;
+        line-height: 1.1 !important;
+        margin-bottom: 17px !important;
+    }
+
+    .ftr-logo {
+        padding: 20px 0 !important;
+    }
+
+    .strugglesec ul {
+        display: grid !important;
+        margin: 20px 0 0 !important;
+    }
+
+    .strugglesec ul li {
+        width: auto !important;
+        line-height: 24px !important;
+    }
+
+    .strgle-img figure img {
+        width: 100% !important;
+        height: auto !important;
+        margin-bottom: 0px !important;
+        margin-top: 20px !important;
+    }
+
+    .about_girl {
+        left: 53% !important;
+        width: 235px !important;
+        position: absolute !important;
+        bottom: -100px !important;
+        z-index: 1 !important;
+        margin: 0px auto !important;
+    }
+
+    .hexagon-home {
+        padding: 0px !important;
+        padding-top: 30px !important;
+    }
+
+    .hexagon-home .graphic .selected-wrap {
+        margin: 0px !important;
+        width: auto !important;
+    }
+
+    .stellar-step h3 {
+        font-size: 25px !important;
+        text-transform: uppercase !important;
+        text-align: center !important;
+        line-height: normal !important;
+    }
+
+    .edit-img img {
+        height: 300px !important;
+        margin-top: 50px !important;
+    }
+
+    .own-book-sec {
+        padding: 30px !important;
+        background-color: #f4f3ec !important;
+        position: relative !important;
+    }
+
+    .portfolio_tabs img {
+        min-height: auto !important;
+    }
+
+    .sec_pt {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+
+    .portfolio_sec .nav-tabs .nav-link {
+        margin-bottom: 18px !important;
+        font-size: 13px !important;
+    }
+
+    .portfolio_sec .nav-tabs {
+        margin-bottom: 0px !important;
+    }
+
+    .best-selling {
+        padding: 50px 25px !important;
+    }
+
+    .rhyme-cta::after {
+        display: none !important;
+    }
+
+    .rhyme-cta::before {
+        display: none !important;
+    }
+
+    .rhyme-cta .cta-hdg p {
+        font-size: 14px !important;
+    }
+
+    .cta-hdg>h4 {
+        font-size: 29px !important;
+    }
+
+    .rhyme-cta {
+        padding: 30px 0 30px !important;
+    }
+
+    .faq_sec {
+        width: 100% !important;
+        padding: 25PX !important;
+    }
+
+    .card-body p {
+        font-size: 12px !important;
+        width: AUTO !important;
+    }
+
+    #faq .card .card-header .btn-header-link {
+        font-size: 11px !important;
+    }
+
+    #faq .card .card-header {
+        padding: 9px 0 !important;
+    }
+
+    #faq .card .card-header .btn-header-link:after {
+        top: 11px !important;
+    }
+
+    .testimonial-sec {
+        padding: 30px 0 30px !important;
+    }
+
+    .foo_box {
+        border-right: 0px dotted #0d0d0d !important;
+        padding: 10px !important;
+        text-align: center !important;
+    }
+
+    .b_bookarea {
+        padding: 25px !important;
+    }
+
+    .b_book_img {
+        text-align: center !important;
+        margin-bottom: 25px !important;
+    }
+
+    .book_pera ul {
+        display: grid !important;
+        margin-top: 0px !important;
+        justify-content: inherit !important;
+        list-style: auto !important;
+        padding-left: 10px !important;
+    }
+
+    .book_pera {
+        display: grid !important;
+        margin-top: 0px !important;
+        justify-content: revert !important;
+    }
+
+    .amer_data {
+        text-align: center !important;
+        padding: 0px 25px !important;
+    }
+
+    .amer_data h3 {
+        font-size: 25px !important;
+    }
+
+    .info-text h2 {
+        font-size: 35px !important;
+    }
+
+    .case_detail_banner {
+        padding: 50px 0px 50px 0px !important;
+    }
+
+    .case_detail_data {
+        display: grid !important;
+    }
+
+    .baner_data h1 {
+        font-size: 30px !important;
+    }
+
+    .case_detail_data img {
+        width: auto !important;
+        height: 400px !important;
+        margin: 0 auto !important;
+    }
+
+    .our-journey h2.heading {
+        line-height: 30px !important;
+        margin: 0 0 15px !important;
+        font-size: 31px !important;
+    }
+
+    .men_img {
+        display: none;
+    }
+
+    .bane_btns {
+        display: grid !important;
+    }
+
+    .btn-3 a,
+    .btn-3 button {
+        margin-bottom: 15px !important;
+    }
+
+    .btn-4 a {
+        top: 13px !important;
+        width: 56% !important;
+        left: -10px !important;
+    }
+
+    .on_mob {
+        margin-top: 10px !important;
+        width: -webkit-fill-available !important;
+    }
+
+    .cta-btns a {
+        margin-bottom: 5px !important;
+    }
+
+    .cta-btns {
+        display: grid !important;
+        margin-left: 15px !important;
+    }
+
+    /* .testimonial-sec {
+        display: none !important;
+    } */
+
+    .bane_btns a {
+        margin-top: 10px !important;
+    }
+}
+
+/* a.logo img negative margin removed — caused whitespace on mobile header */
+
+.ratsite img {
+    height: 35px;
+    margin: 0 auto;
+}

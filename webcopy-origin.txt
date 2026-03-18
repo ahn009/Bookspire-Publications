@@ -1,0 +1,1116 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\font-awesome\6.1.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-brands-400.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\font-awesome\6.1.1\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-brands-400.woff2
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\font-awesome\6.1.1\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-regular-400.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\font-awesome\6.1.1\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-regular-400.woff2
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\font-awesome\6.1.1\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-solid-900.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\font-awesome\6.1.1\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-solid-900.woff2
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\font-awesome\6.1.1\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\font-awesome\6.1.1\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\font-awesome\6.1.1\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/16.0.0/css/intlTelInput.css
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\intl-tel-input\16.0.0\css\intlTelInput.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/16.0.0/img/flags.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\intl-tel-input\16.0.0\img\flags.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/16.0.0/img/flags@2x.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\intl-tel-input\16.0.0\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/16.0.0/js/intlTelInput.min.js
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\intl-tel-input\16.0.0\js\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://d3a1eo0ozlzntn.cloudfront.net/assets/js/frontend-v2/widgets-v2.24a197bed6.v2.js
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\js\frontend-v2\widgets-v2.24a197bed6.v2.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\s\poppins\v24\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\s\poppins\v24\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\s\poppins\v24\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\s\poppins\v24\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\s\poppins\v24\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\s\poppins\v24\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\s\poppins\v24\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\s\poppins\v24\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\s\poppins\v24\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://js.hs-scripts.com/20908609.js?v=1.0.4
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\20908609.js
+Content Type: application/javascript
+
+Uri: https://thewriterstree.com/
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\index.htm
+Content Type: text/html
+
+Uri: https://thewriterstree.com/about-us
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\about-us.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/assets/css/mob_responese.css
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\mob_responese.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/responsive.css
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style-web.css
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-web.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958677
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-1.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958679
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-2.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958681
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-3.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958913
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-4.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958914
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-5.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958916
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-6.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958917
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-7.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958920
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-8.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958921
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-9.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958922
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-10.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958924
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-11.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958926
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-12.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958928
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-13.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958929
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-14.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958930
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-15.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958931
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-16.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958932
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-17.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958933
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-18.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958934
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-19.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958935
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-20.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958936
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-21.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958937
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-22.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958938
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-23.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/css/style.css?ver=1771958990
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\css\style-24.css
+Content Type: text/css
+
+Uri: https://thewriterstree.com/assets/images/about-banner.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\about-banner.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/about-expert.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\about-expert.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/author-bg.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\author-bg.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/banner.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\banner.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/bark-pro-small.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\bark-pro-small.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/bbc-1.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\bbc-1.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/bbc-2.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\bbc-2.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/bbc-3.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\bbc-3.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/bbc-4.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\bbc-4.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/bbc-5.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\bbc-5.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/bbc-6.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\bbc-6.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/bg-editor.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\bg-editor.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/bg-net.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\bg-net.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/blog-1.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\blog-1.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/blog-banner.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\blog-banner.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/blog-detail.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\blog-detail.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/Book Cover/12.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Book Cover\12.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/Book Cover/13.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Book Cover\13.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/Book Marketing/Book Marketing 2.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Book Marketing\Book Marketing 2.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/Book Marketing/Book Marketing 3.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Book Marketing\Book Marketing 3.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/Book Marketing/Book Marketing.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Book Marketing\Book Marketing.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/Book Trailer/Book Trailer 2.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Book Trailer\Book Trailer 2.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/Book Trailer/Book Trailer.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Book Trailer\Book Trailer.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/Book Trailer/Book_Trailer_3.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Book Trailer\Book_Trailer_3.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/book-banner.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\book-banner.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/book-printing/Book Mockup.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\book-printing\Book Mockup.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/book-printing/Book Printing 2.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\book-printing\Book Printing 2.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/book-printing/Book Printing.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\book-printing\Book Printing.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/case_pics/01.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\01.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/03.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\03.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/case_pics/04.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\04.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/05.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\05.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/06.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\06.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/08.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\08.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/09.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\09.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/11.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\11.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/12.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\12.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/13.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\13.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/14.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\14.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/case_pics/15.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\15.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/16.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\16.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/17.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\17.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/18.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\18.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/19.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\19.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/20.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\20.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/21.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\21.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/22.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\22.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/23.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\23.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/25.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\25.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/26.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\26.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/27.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\27.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/28.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\28.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/01.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\01.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/03.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\03.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/04.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\04.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/05.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\05.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/06.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\06.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/08.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\08.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/09.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\09.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/11.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\11.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/12.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\12.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/13.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\13.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/14.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\14.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/15.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\15.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/16.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\16.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/17.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\17.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/18.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\18.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/19.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\19.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/20.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\20.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/21.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\21.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/22.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\22.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/23.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\23.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/24.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\24.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/25.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\25.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/26.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\26.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/27.JPG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\27.JPG
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/case_pics/main_case/user_img.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\main_case\user_img.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/case_pics/user_img.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\case_pics\user_img.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/contact-banner.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\contact-banner.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/controls.html
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\controls.html
+Content Type: application/x-httpd-php
+
+Uri: https://thewriterstree.com/assets/images/cta.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\cta.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/editbg.PNG
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\editbg.PNG
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/Editing/05-01.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Editing\05-01.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/Editing/08.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Editing\08.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/exellent.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\exellent.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/footer-bg.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\footer-bg.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/genre-bg-after.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\genre-bg-after.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/gh-banner.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\gh-banner.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/Ghostwriting/1-01.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Ghostwriting\1-01.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/Ghostwriting/3-01.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Ghostwriting\3-01.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/line2.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\line2.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/logo.svg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://thewriterstree.com/assets/images/mark1.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark1.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/mark10.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark10.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/mark11.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark11.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/mark12.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark12.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/mark2.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark2.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/mark3.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark3.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/mark4.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark4.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/mark5.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark5.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/mark6.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark6.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/mark7.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark7.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/mark8.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark8.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/mark9.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\mark9.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/marketing-bg-after.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\marketing-bg-after.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/marketing-bg.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\marketing-bg.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new-pf.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new-pf.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/about_girl_44.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\about_girl_44.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/about_img1.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\about_img1.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/new_sec/about_img2.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\about_img2.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/new_sec/about_img3.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\about_img3.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/new_sec/about_img4.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\about_img4.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/new_sec/background_image_2.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\background_image_2.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/new_sec/bark.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\bark.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/best-selling2.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\best-selling2.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/new_sec/clutch.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\clutch.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/cta-after.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\cta-after.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/cta-before.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\cta-before.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/cta-bg.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\cta-bg.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/feature_icon1.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\feature_icon1.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/new_sec/feature_icon2.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\feature_icon2.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/new_sec/feature_icon3.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\feature_icon3.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/new_sec/feature_icon4.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\feature_icon4.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/new_sec/feedback.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\feedback.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/placement.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\placement.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/popop-bg.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\popop-bg.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/portfolio_bg.jpg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\portfolio_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://thewriterstree.com/assets/images/new_sec/publishing.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\publishing.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/rating-almost-full.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\rating-almost-full.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/rating-full.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\rating-full.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/revision.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\revision.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/s-banner-bg.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\s-banner-bg.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/service-bg.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\service-bg.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/services.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\services.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/side image  2.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\side image  2.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/side image  3.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\side image  3.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/side image  4.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\side image  4.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/side image 111.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\side image 111.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/strugle.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\strugle.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/struglee.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\struglee.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/testimonials-bg.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\testimonials-bg.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/new_sec/white_twitter.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\white_twitter.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/new_sec/wri-edi-simg.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\new_sec\wri-edi-simg.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/our-journey.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\our-journey.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/our-shelf.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\our-shelf.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/pricing-bg-after.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\pricing-bg-after.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/pricing-tab-bg.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\pricing-tab-bg.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/pub-banner-after.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\pub-banner-after.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/Publishing/07.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Publishing\07.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/Publishing/11.png
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\Publishing\11.png
+Content Type: image/png
+
+Uri: https://thewriterstree.com/assets/images/rec1.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\rec1.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/review-io.svg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\review-io.svg
+Content Type: image/svg+xml
+
+Uri: https://thewriterstree.com/assets/images/shelf-h5-before.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\shelf-h5-before.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/site-jabbar.svg
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\site-jabbar.svg
+Content Type: image/svg+xml
+
+Uri: https://thewriterstree.com/assets/images/site-logo3.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\site-logo3.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/site-logo4.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\site-logo4.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/site-logo5.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\site-logo5.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/site-logo6.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\site-logo6.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/site-logo7.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\site-logo7.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/site-logo8.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\site-logo8.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/site-logo9.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\site-logo9.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/specialized-container-before.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\specialized-container-before.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/specialized.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\specialized.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz1.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz1.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz10.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz10.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz11.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz11.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz12.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz12.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz13.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz13.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz14.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz14.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz15.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz15.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz2.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz2.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz3.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz3.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz4.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz4.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz5.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz5.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz6.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz6.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz7.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz7.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz8.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz8.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/sz9.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\sz9.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/tes-bg.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\tes-bg.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/tes-h4-after.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\tes-h4-after.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/images/tes-h4-before.webp
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\images\tes-h4-before.webp
+Content Type: image/webp
+
+Uri: https://thewriterstree.com/assets/js/captcha.kmk.min.js
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\js\captcha.kmk.min.js
+Content Type: application/javascript
+
+Uri: https://thewriterstree.com/assets/js/functions.js
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\js\functions.js
+Content Type: application/javascript
+
+Uri: https://thewriterstree.com/assets/js/libs.js
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\assets\js\libs.js
+Content Type: application/javascript
+
+Uri: https://thewriterstree.com/author-web-design
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\author-web-design.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/beverly-ahlering-saltonstall
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\beverly-ahlering-saltonstall.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/blog
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\blog.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/book-blog
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\book-blog.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/book-cover
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\book-cover.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/book-editing
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\book-editing.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/book-marketing
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\book-marketing.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/book-printing
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\book-printing.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/book-publishing
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\book-publishing.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/book-trailer-video
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\book-trailer-video.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/case-studies
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\case-studies.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/charles-hill
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\charles-hill.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/contact-us
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\contact-us.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/david-carter
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\david-carter.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/em-johnson
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\em-johnson.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/favicon.ico
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://thewriterstree.com/ghost-writing
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\ghost-writing.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/glady-gsriffin
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\glady-gsriffin.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/greg-johnson
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\greg-johnson.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/jay-borden
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\jay-borden.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/jean-comito
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\jean-comito.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/jimmy-haddad
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\jimmy-haddad.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/joe-woods
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\joe-woods.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/john-jacobs
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\john-jacobs.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/katy-mack
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\katy-mack.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/kelly-grennan
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\kelly-grennan.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/michael-reza
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\michael-reza.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/pam-stevens
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\pam-stevens.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/pay-using-stripe
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\pay-using-stripe.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/pricing
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\pricing.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/privacy-policy
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/rick-kauffman
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\rick-kauffman.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/steven-waterfield
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\steven-waterfield.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/susan-wilson
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\susan-wilson.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/taras-chubenko
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\taras-chubenko.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/terms-condition
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\terms-condition.html
+Content Type: text/html
+
+Uri: https://thewriterstree.com/waltere-asili
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\waltere-asili.html
+Content Type: text/html
+
+Uri: https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js
+File Name: C:\Users\LENOVO\Desktop\new-site\thewriterstree.com\bootstrap\v5\tp.widget.bootstrap.min.js
+Content Type: text/javascript
+
