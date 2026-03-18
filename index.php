@@ -952,71 +952,22 @@ include 'includes/header.php';
                             <div class="owl-carousel bages-carousel owl-theme owl-loaded owl-drag">
 
                                 <div class="owl-stage-outer">
-                                    <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 646px;">
+                                                                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 161.5px;">
                                         <div class="owl-item active" style="width: 151.5px; margin-right: 10px;">
                                             <div class="item">
                                                 <a href="https://www.trustpilot.com/review/bookspirepublishing.com">
                                                     <div class="ratsite">
-                                                        <img loading="lazy" src="assets/images/trustpilot.svg" alt="review_icon">
+                                                        <img loading="lazy" src="assets/images/trustpilot.svg" alt="Trustpilot">
                                                     </div>
                                                     <div class="ratings_cont">
-                                                        <h3>4.6</h3>
+                                                        <h3>3.7</h3>
                                                         <div class="ratings_rate">
-                                                            <img loading="lazy" src="assets/images/trustpilot-rating.svg" class="img-fluid" alt="TWT imgs">
-                                                            <p>Ratings</p>
+                                                            <img loading="lazy" src="assets/images/trustpilot-rating.svg" class="img-fluid" alt="Trustpilot Rating">
                                                         </div>
                                                     </div>
                                                 </a>
                                             </div>
                                         </div>
-                                        <!-- <div class="owl-item active" style="width: 151.5px; margin-right: 10px;">
-                                            <div class="item">
-                                                <a href="https://www.bark.com/en/us/company/the-writers-tree/mpJny/">
-                                                    <div class="ratsite">
-                                                        <img loading="lazy" src="assets/images/new_sec/bark.webp" class="img-fluid" alt="TWT imgs">
-                                                    </div>
-                                                    <div class="ratings_cont">
-                                                        <h3>5.0</h3>
-                                                        <div class="ratings_rate">
-                                                            <img loading="lazy" src="assets/images/new_sec/rating-full.webp" class="img-fluid" alt="TWT imgs">
-                                                            <p>Ratings</p>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="owl-item active" style="width: 151.5px; margin-right: 10px;">
-                                            <div class="item">
-                                                <a href="https://clutch.co/profile/writers-tree">
-                                                    <div class="ratsite">
-                                                        <img loading="lazy" src="assets/images/new_sec/clutch.webp" class="img-fluid" alt="TWT imgs">
-                                                    </div>
-                                                    <div class="ratings_cont">
-                                                        <h3>5.0</h3>
-                                                        <div class="ratings_rate">
-                                                            <img loading="lazy" src="assets/images/new_sec/rating-full.webp" class="img-fluid" alt="TWT imgs">
-                                                            <p>Ratings</p>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="owl-item active" style="width: 151.5px; margin-right: 10px;">
-                                            <div class="item">
-                                                <a href="https://www.sitejabber.com/reviews/bookspirepublishing.com">
-                                                    <div class="ratsite">
-                                                        <img loading="lazy" src="assets/images/site-jabbar.svg" class="img-fluid" alt="TWT imgs">
-                                                    </div>
-                                                    <div class="ratings_cont">
-                                                        <h3>4.9</h3>
-                                                        <div class="ratings_rate">
-                                                            <img loading="lazy" src="assets/images/new_sec/rating-almost-full.webp" alt="ratings">
-                                                            <p>Ratings</p>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div> -->
                                     </div>
                                 </div>
                                 <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>

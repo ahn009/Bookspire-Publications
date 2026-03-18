@@ -531,7 +531,7 @@ include 'includes/header.php';
                                                         <img loading="lazy" src="assets/images/trustpilot.svg" alt="review_icon">
                                                     </div>
                                                     <div class="ratings_cont">
-                                                        <h3>4.6</h3>
+                                                        <h3>3.7</h3>
                                                         <div class="ratings_rate">
                                                             <img loading="lazy" src="assets/images/trustpilot-rating.svg" class="img-fluid" alt="TWT imgs">
                                                             <p>Ratings</p>
