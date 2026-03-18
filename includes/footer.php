@@ -124,6 +124,7 @@
 
     </div>
 
+<div class="container">
     <div class="col-md-12">
         <style>
     footer h6 {
@@ -202,6 +203,9 @@
         </a>
     </li>
 </ul>
+
+    </div><!-- /.col-md-12 -->
+</div><!-- /.container -->
 
 </footer>
 
@@ -411,8 +415,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-
-</div>
 
 </body>
 </html>

@@ -23,7 +23,7 @@ include 'includes/header.php';
         }
     }
 
-    .form-group {
+    .entry-box .form-group {
         margin-bottom: 10px;
     }
 

@@ -23,7 +23,8 @@ include 'includes/header.php';
         }
     }
 
-    h1 {
+    .blog-banner h1,
+    .blog h1 {
         font-weight: 700;
         font-size: 51px;
         background-image: -moz-linear-gradient(90deg, rgb(0 131 140) 0, #00838c 100%);
@@ -56,11 +57,11 @@ include 'includes/header.php';
         transform: translateY(-50%);
     }   
 
-    .nav {
+    .blog .nav {
         display: block;
     }
-    
-    a {
+
+    .blog a {
         color: #007bff;
         text-decoration: none;
         background-color: transparent;

@@ -8,7 +8,7 @@ include 'includes/header.php';
 
 
 <style>
-    label {
+    #stripe label {
         width: 100%;
         color:#fff
     }
